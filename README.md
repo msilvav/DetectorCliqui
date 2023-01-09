@@ -3,4 +3,5 @@ Trabajo para Beta PUCV 2023. Detector YOLOv7 entrenado para detectar robot educa
 
 ## Referencias:
 https://github.com/WongKinYiu/yolov7
+
 http://cliqui.cl/
